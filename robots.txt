@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+# Sitemap: https://VOTRE-IDENTIFIANT.github.io/portfolio/sitemap.xml
