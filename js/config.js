@@ -20,9 +20,9 @@ window.PORTFOLIO_CONFIG = {
 
   /* ---------- Coordonnées (à compléter) ---------- */
   contact: {
-    email: "",          // ex. "francine.cikuru@exemple.com"
-    telephone: "",      // ex. "243970000000"  → lien tel:+243970000000
-    whatsapp: "",       // ex. "243970000000"  → lien https://wa.me/243970000000
+    email: "cikurucishibanji03@gmail.com",          // ex. "francine.cikuru@exemple.com"
+    telephone: "243999348465",      // ex. "243970000000"  → lien tel:+243970000000
+    whatsapp: "https://wa.me/243999348465",       // ex. "243970000000"  → lien https://wa.me/243970000000
     // Message prérempli lorsqu'un visiteur clique sur WhatsApp / e-mail
     messageWhatsApp: "Bonjour Francine, j'ai consulté votre portfolio et je souhaiterais échanger avec vous au sujet d'un projet.",
     objetEmail: "Prise de contact depuis votre portfolio",
@@ -31,7 +31,7 @@ window.PORTFOLIO_CONFIG = {
 
   /* ---------- Réseaux professionnels (à compléter) ---------- */
   reseaux: {
-    github: "",         // ex. "https://github.com/votre-identifiant"
+    github: "https://github.com/cikurufrancine",         // ex. "https://github.com/votre-identifiant"
     linkedin: ""        // ex. "https://www.linkedin.com/in/votre-identifiant"
   },
 
@@ -44,7 +44,7 @@ window.PORTFOLIO_CONFIG = {
      Tant que ce champ est vide, le site N'AFFICHE JAMAIS « message envoyé » :
      il propose à la place d'utiliser l'e-mail ou WhatsApp. */
   formulaires: {
-    endpoint: ""        // ex. "https://formspree.io/f/abcdwxyz"
+    endpoint: "https://formspree.io/f/xvkzywoq"        // ex. "https://formspree.io/f/abcdwxyz"
   },
 
   /* ---------- SEO ---------- */
