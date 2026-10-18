@@ -1,0 +1,84 @@
+<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 1280 800' width='1280' height='800' font-family='Segoe UI, Roboto, Helvetica, Arial, sans-serif'>
+<defs><linearGradient id='g' x1='0' y1='0' x2='1' y2='1'><stop offset='0' stop-color='#2bb3cf'/><stop offset='1' stop-color='#e2502e'/></linearGradient></defs>
+<rect width='1280' height='800' fill='#f6f1ec'/>
+<rect width='240' height='800' fill='#2a1a12'/>
+<rect x='24' y='26' width='36' height='36' rx='10' fill='url(#g)'/>
+<text x='72' y='51' font-size='20' font-weight='700' fill='#fff'>StockPro</text>
+<rect x='14' y='86' width='212' height='40' rx='10' fill='#2bb3cf' fill-opacity='.16'/>
+<rect x='14' y='86' width='4' height='40' rx='2' fill='#2bb3cf'/>
+<rect x='34' y='98' width='16' height='16' rx='4' fill='#2bb3cf'/>
+<text x='62' y='111' font-size='15' fill='#fff'>Tableau de bord</text>
+<rect x='34' y='150' width='16' height='16' rx='4' fill='#7a5a46'/>
+<text x='62' y='163' font-size='15' fill='#d6c2b2'>Articles</text>
+<rect x='34' y='202' width='16' height='16' rx='4' fill='#7a5a46'/>
+<text x='62' y='215' font-size='15' fill='#d6c2b2'>Entrées</text>
+<rect x='34' y='254' width='16' height='16' rx='4' fill='#7a5a46'/>
+<text x='62' y='267' font-size='15' fill='#d6c2b2'>Sorties</text>
+<rect x='34' y='306' width='16' height='16' rx='4' fill='#7a5a46'/>
+<text x='62' y='319' font-size='15' fill='#d6c2b2'>Fournisseurs</text>
+<rect x='34' y='358' width='16' height='16' rx='4' fill='#7a5a46'/>
+<text x='62' y='371' font-size='15' fill='#d6c2b2'>Inventaire</text>
+<rect x='34' y='410' width='16' height='16' rx='4' fill='#7a5a46'/>
+<text x='62' y='423' font-size='15' fill='#d6c2b2'>Rapports</text>
+<rect x='240' width='1040' height='72' fill='#fff'/>
+<rect x='272' y='20' width='360' height='34' rx='17' fill='#f6f1ec'/>
+<text x='296' y='42' font-size='14' fill='#8a97b3'>Rechercher…</text>
+<circle cx='1222' cy='36' r='18' fill='url(#g)'/>
+<rect x='1060' y='26' width='130' height='20' rx='6' fill='#e3e8f2'/>
+<text x='272' y='118' font-size='26' font-weight='700' fill='#2a1a12'>Tableau de bord</text>
+<rect x='272' y='150' width='228' height='110' rx='16' fill='#fff'/>
+<rect x='292' y='170' width='36' height='36' rx='10' fill='#2bb3cf' fill-opacity='.18'/>
+<text x='292' y='230' font-size='26' font-weight='700' fill='#2a1a12'>1 248</text>
+<text x='340' y='194' font-size='14' fill='#6b7a99'>Articles</text>
+<rect x='520' y='150' width='228' height='110' rx='16' fill='#fff'/>
+<rect x='540' y='170' width='36' height='36' rx='10' fill='#2bb3cf' fill-opacity='.18'/>
+<text x='540' y='230' font-size='26' font-weight='700' fill='#2a1a12'>42 860 $</text>
+<text x='588' y='194' font-size='14' fill='#6b7a99'>Valeur du stock</text>
+<rect x='768' y='150' width='228' height='110' rx='16' fill='#fff'/>
+<rect x='788' y='170' width='36' height='36' rx='10' fill='#2bb3cf' fill-opacity='.18'/>
+<text x='788' y='230' font-size='26' font-weight='700' fill='#2a1a12'>7</text>
+<text x='836' y='194' font-size='14' fill='#6b7a99'>Ruptures</text>
+<rect x='1016' y='150' width='228' height='110' rx='16' fill='#fff'/>
+<rect x='1036' y='170' width='36' height='36' rx='10' fill='#2bb3cf' fill-opacity='.18'/>
+<text x='1036' y='230' font-size='26' font-weight='700' fill='#2a1a12'>86</text>
+<text x='1084' y='194' font-size='14' fill='#6b7a99'>Mouvements / jour</text><rect x='272' y='284' width='620' height='466' rx='16' fill='#fff'/>
+<text x='296' y='322' font-size='17' font-weight='600' fill='#2a1a12'>Évolution mensuelle</text>
+<rect x='308' y='590' width='35' height='130' rx='6' fill='url(#g)' fill-opacity='0.71'/>
+<rect x='355' y='534' width='35' height='186' rx='6' fill='url(#g)' fill-opacity='0.77'/>
+<rect x='401' y='536' width='35' height='184' rx='6' fill='url(#g)' fill-opacity='0.77'/>
+<rect x='448' y='374' width='35' height='346' rx='6' fill='url(#g)' fill-opacity='0.96'/>
+<rect x='495' y='376' width='35' height='344' rx='6' fill='url(#g)' fill-opacity='0.96'/>
+<rect x='541' y='538' width='35' height='182' rx='6' fill='url(#g)' fill-opacity='0.77'/>
+<rect x='588' y='534' width='35' height='186' rx='6' fill='url(#g)' fill-opacity='0.77'/>
+<rect x='635' y='607' width='35' height='113' rx='6' fill='url(#g)' fill-opacity='0.69'/>
+<rect x='681' y='477' width='35' height='243' rx='6' fill='url(#g)' fill-opacity='0.84'/>
+<rect x='728' y='598' width='35' height='122' rx='6' fill='url(#g)' fill-opacity='0.70'/>
+<rect x='775' y='467' width='35' height='253' rx='6' fill='url(#g)' fill-opacity='0.85'/>
+<rect x='821' y='385' width='35' height='335' rx='6' fill='url(#g)' fill-opacity='0.95'/><rect x='912' y='284' width='336' height='466' rx='16' fill='#fff'/>
+<text x='936' y='322' font-size='17' font-weight='600' fill='#2a1a12'>Activité récente</text>
+<circle cx='952' cy='364' r='14' fill='#2bb3cf' fill-opacity='.2'/>
+<rect x='978' y='354' width='165' height='10' rx='5' fill='#c9d2e3'/>
+<rect x='978' y='370' width='98' height='8' rx='4' fill='#e3e8f2'/>
+<rect x='1168' y='356' width='56' height='18' rx='9' fill='#2bb3cf' fill-opacity='.25'/>
+<circle cx='952' cy='420' r='14' fill='#2bb3cf' fill-opacity='.2'/>
+<rect x='978' y='410' width='121' height='10' rx='5' fill='#c9d2e3'/>
+<rect x='978' y='426' width='60' height='8' rx='4' fill='#e3e8f2'/>
+<rect x='1168' y='412' width='56' height='18' rx='9' fill='#2bb3cf' fill-opacity='.25'/>
+<circle cx='952' cy='476' r='14' fill='#2bb3cf' fill-opacity='.2'/>
+<rect x='978' y='466' width='111' height='10' rx='5' fill='#c9d2e3'/>
+<rect x='978' y='482' width='77' height='8' rx='4' fill='#e3e8f2'/>
+<rect x='1168' y='468' width='56' height='18' rx='9' fill='#2bb3cf' fill-opacity='.25'/>
+<circle cx='952' cy='532' r='14' fill='#2bb3cf' fill-opacity='.2'/>
+<rect x='978' y='522' width='132' height='10' rx='5' fill='#c9d2e3'/>
+<rect x='978' y='538' width='99' height='8' rx='4' fill='#e3e8f2'/>
+<rect x='1168' y='524' width='56' height='18' rx='9' fill='#2bb3cf' fill-opacity='.25'/>
+<circle cx='952' cy='588' r='14' fill='#2bb3cf' fill-opacity='.2'/>
+<rect x='978' y='578' width='117' height='10' rx='5' fill='#c9d2e3'/>
+<rect x='978' y='594' width='88' height='8' rx='4' fill='#e3e8f2'/>
+<rect x='1168' y='580' width='56' height='18' rx='9' fill='#2bb3cf' fill-opacity='.25'/>
+<circle cx='952' cy='644' r='14' fill='#2bb3cf' fill-opacity='.2'/>
+<rect x='978' y='634' width='139' height='10' rx='5' fill='#c9d2e3'/>
+<rect x='978' y='650' width='87' height='8' rx='4' fill='#e3e8f2'/>
+<rect x='1168' y='636' width='56' height='18' rx='9' fill='#2bb3cf' fill-opacity='.25'/>
+<!-- Aperçu illustratif : maquette générique, pas une capture réelle -->
+</svg>

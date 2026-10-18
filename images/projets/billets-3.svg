@@ -1,0 +1,147 @@
+<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 1280 800' width='1280' height='800' font-family='Segoe UI, Roboto, Helvetica, Arial, sans-serif'>
+<defs><linearGradient id='g' x1='0' y1='0' x2='1' y2='1'><stop offset='0' stop-color='#a78bfa'/><stop offset='1' stop-color='#6366f1'/></linearGradient></defs>
+<rect width='1280' height='800' fill='#eef2f8'/>
+<rect width='240' height='800' fill='#0b1530'/>
+<rect x='24' y='26' width='36' height='36' rx='10' fill='url(#g)'/>
+<text x='72' y='51' font-size='20' font-weight='700' fill='#fff'>TransBillet</text>
+<rect x='34' y='98' width='16' height='16' rx='4' fill='#475a85'/>
+<text x='62' y='111' font-size='15' fill='#a9b6d3'>Tableau de bord</text>
+<rect x='34' y='150' width='16' height='16' rx='4' fill='#475a85'/>
+<text x='62' y='163' font-size='15' fill='#a9b6d3'>Trajets</text>
+<rect x='34' y='202' width='16' height='16' rx='4' fill='#475a85'/>
+<text x='62' y='215' font-size='15' fill='#a9b6d3'>Départs</text>
+<rect x='34' y='254' width='16' height='16' rx='4' fill='#475a85'/>
+<text x='62' y='267' font-size='15' fill='#a9b6d3'>Réservations</text>
+<rect x='14' y='294' width='212' height='40' rx='10' fill='#a78bfa' fill-opacity='.16'/>
+<rect x='14' y='294' width='4' height='40' rx='2' fill='#a78bfa'/>
+<rect x='34' y='306' width='16' height='16' rx='4' fill='#a78bfa'/>
+<text x='62' y='319' font-size='15' fill='#fff'>Billets</text>
+<rect x='34' y='358' width='16' height='16' rx='4' fill='#475a85'/>
+<text x='62' y='371' font-size='15' fill='#a9b6d3'>Clients</text>
+<rect x='34' y='410' width='16' height='16' rx='4' fill='#475a85'/>
+<text x='62' y='423' font-size='15' fill='#a9b6d3'>Rapports</text>
+<rect x='240' width='1040' height='72' fill='#fff'/>
+<rect x='272' y='20' width='360' height='34' rx='17' fill='#eef2f8'/>
+<text x='296' y='42' font-size='14' fill='#8a97b3'>Rechercher…</text>
+<circle cx='1222' cy='36' r='18' fill='url(#g)'/>
+<rect x='1060' y='26' width='130' height='20' rx='6' fill='#e3e8f2'/>
+<text x='272' y='118' font-size='26' font-weight='700' fill='#0b1530'>Billet de voyage</text>
+<rect x='372' y='190' width='780' height='420' rx='22' fill='#fff'/>
+<rect x='372' y='190' width='780' height='96' rx='22' fill='url(#g)'/>
+<rect x='372' y='250' width='780' height='36' fill='url(#g)'/>
+<text x='408' y='250' font-size='26' font-weight='800' fill='#fff'>TransBillet — Billet</text>
+<line x1='932' x2='932' y1='300' y2='590' stroke='#c9d2e3' stroke-dasharray='8 8'/>
+<text x='408' y='330' font-size='13' fill='#8a97b3'>PASSAGER</text>
+<rect x='408' y='344' width='182' height='14' rx='7' fill='#c9d2e3'/>
+<text x='658' y='330' font-size='13' fill='#8a97b3'>TRAJET</text>
+<rect x='658' y='344' width='149' height='14' rx='7' fill='#c9d2e3'/>
+<text x='408' y='416' font-size='13' fill='#8a97b3'>DATE</text>
+<rect x='408' y='430' width='140' height='14' rx='7' fill='#c9d2e3'/>
+<text x='658' y='416' font-size='13' fill='#8a97b3'>DÉPART</text>
+<rect x='658' y='430' width='175' height='14' rx='7' fill='#c9d2e3'/>
+<text x='408' y='502' font-size='13' fill='#8a97b3'>SIÈGE</text>
+<rect x='408' y='516' width='133' height='14' rx='7' fill='#c9d2e3'/>
+<text x='658' y='502' font-size='13' fill='#8a97b3'>MONTANT</text>
+<rect x='658' y='516' width='164' height='14' rx='7' fill='#c9d2e3'/>
+<rect x='972' y='340' width='11' height='11' fill='#0b1530'/>
+<rect x='983' y='340' width='11' height='11' fill='#0b1530'/>
+<rect x='994' y='340' width='11' height='11' fill='#0b1530'/>
+<rect x='1005' y='340' width='11' height='11' fill='#0b1530'/>
+<rect x='1038' y='340' width='11' height='11' fill='#0b1530'/>
+<rect x='1082' y='340' width='11' height='11' fill='#0b1530'/>
+<rect x='1093' y='340' width='11' height='11' fill='#0b1530'/>
+<rect x='1104' y='340' width='11' height='11' fill='#0b1530'/>
+<rect x='972' y='351' width='11' height='11' fill='#0b1530'/>
+<rect x='983' y='351' width='11' height='11' fill='#0b1530'/>
+<rect x='994' y='351' width='11' height='11' fill='#0b1530'/>
+<rect x='1005' y='351' width='11' height='11' fill='#0b1530'/>
+<rect x='1027' y='351' width='11' height='11' fill='#0b1530'/>
+<rect x='1038' y='351' width='11' height='11' fill='#0b1530'/>
+<rect x='1049' y='351' width='11' height='11' fill='#0b1530'/>
+<rect x='1060' y='351' width='11' height='11' fill='#0b1530'/>
+<rect x='1071' y='351' width='11' height='11' fill='#0b1530'/>
+<rect x='1082' y='351' width='11' height='11' fill='#0b1530'/>
+<rect x='1093' y='351' width='11' height='11' fill='#0b1530'/>
+<rect x='1104' y='351' width='11' height='11' fill='#0b1530'/>
+<rect x='972' y='362' width='11' height='11' fill='#0b1530'/>
+<rect x='983' y='362' width='11' height='11' fill='#0b1530'/>
+<rect x='994' y='362' width='11' height='11' fill='#0b1530'/>
+<rect x='1016' y='362' width='11' height='11' fill='#0b1530'/>
+<rect x='1027' y='362' width='11' height='11' fill='#0b1530'/>
+<rect x='1038' y='362' width='11' height='11' fill='#0b1530'/>
+<rect x='1049' y='362' width='11' height='11' fill='#0b1530'/>
+<rect x='1060' y='362' width='11' height='11' fill='#0b1530'/>
+<rect x='1082' y='362' width='11' height='11' fill='#0b1530'/>
+<rect x='1093' y='362' width='11' height='11' fill='#0b1530'/>
+<rect x='1104' y='362' width='11' height='11' fill='#0b1530'/>
+<rect x='972' y='373' width='11' height='11' fill='#0b1530'/>
+<rect x='994' y='373' width='11' height='11' fill='#0b1530'/>
+<rect x='1027' y='373' width='11' height='11' fill='#0b1530'/>
+<rect x='1038' y='373' width='11' height='11' fill='#0b1530'/>
+<rect x='1093' y='373' width='11' height='11' fill='#0b1530'/>
+<rect x='1027' y='384' width='11' height='11' fill='#0b1530'/>
+<rect x='1038' y='384' width='11' height='11' fill='#0b1530'/>
+<rect x='1049' y='384' width='11' height='11' fill='#0b1530'/>
+<rect x='1071' y='384' width='11' height='11' fill='#0b1530'/>
+<rect x='1082' y='384' width='11' height='11' fill='#0b1530'/>
+<rect x='1104' y='384' width='11' height='11' fill='#0b1530'/>
+<rect x='972' y='395' width='11' height='11' fill='#0b1530'/>
+<rect x='994' y='395' width='11' height='11' fill='#0b1530'/>
+<rect x='1005' y='395' width='11' height='11' fill='#0b1530'/>
+<rect x='1016' y='395' width='11' height='11' fill='#0b1530'/>
+<rect x='1027' y='395' width='11' height='11' fill='#0b1530'/>
+<rect x='1038' y='395' width='11' height='11' fill='#0b1530'/>
+<rect x='1071' y='395' width='11' height='11' fill='#0b1530'/>
+<rect x='1082' y='395' width='11' height='11' fill='#0b1530'/>
+<rect x='1027' y='406' width='11' height='11' fill='#0b1530'/>
+<rect x='1071' y='406' width='11' height='11' fill='#0b1530'/>
+<rect x='1093' y='406' width='11' height='11' fill='#0b1530'/>
+<rect x='1104' y='406' width='11' height='11' fill='#0b1530'/>
+<rect x='972' y='417' width='11' height='11' fill='#0b1530'/>
+<rect x='983' y='417' width='11' height='11' fill='#0b1530'/>
+<rect x='1005' y='417' width='11' height='11' fill='#0b1530'/>
+<rect x='1016' y='417' width='11' height='11' fill='#0b1530'/>
+<rect x='1038' y='417' width='11' height='11' fill='#0b1530'/>
+<rect x='1060' y='417' width='11' height='11' fill='#0b1530'/>
+<rect x='1071' y='417' width='11' height='11' fill='#0b1530'/>
+<rect x='1093' y='417' width='11' height='11' fill='#0b1530'/>
+<rect x='1104' y='417' width='11' height='11' fill='#0b1530'/>
+<rect x='983' y='428' width='11' height='11' fill='#0b1530'/>
+<rect x='994' y='428' width='11' height='11' fill='#0b1530'/>
+<rect x='1038' y='428' width='11' height='11' fill='#0b1530'/>
+<rect x='1049' y='428' width='11' height='11' fill='#0b1530'/>
+<rect x='1071' y='428' width='11' height='11' fill='#0b1530'/>
+<rect x='1093' y='428' width='11' height='11' fill='#0b1530'/>
+<rect x='1104' y='428' width='11' height='11' fill='#0b1530'/>
+<rect x='994' y='439' width='11' height='11' fill='#0b1530'/>
+<rect x='1005' y='439' width='11' height='11' fill='#0b1530'/>
+<rect x='1049' y='439' width='11' height='11' fill='#0b1530'/>
+<rect x='1060' y='439' width='11' height='11' fill='#0b1530'/>
+<rect x='1071' y='439' width='11' height='11' fill='#0b1530'/>
+<rect x='1093' y='439' width='11' height='11' fill='#0b1530'/>
+<rect x='972' y='450' width='11' height='11' fill='#0b1530'/>
+<rect x='983' y='450' width='11' height='11' fill='#0b1530'/>
+<rect x='994' y='450' width='11' height='11' fill='#0b1530'/>
+<rect x='1016' y='450' width='11' height='11' fill='#0b1530'/>
+<rect x='1038' y='450' width='11' height='11' fill='#0b1530'/>
+<rect x='1049' y='450' width='11' height='11' fill='#0b1530'/>
+<rect x='1060' y='450' width='11' height='11' fill='#0b1530'/>
+<rect x='972' y='461' width='11' height='11' fill='#0b1530'/>
+<rect x='983' y='461' width='11' height='11' fill='#0b1530'/>
+<rect x='994' y='461' width='11' height='11' fill='#0b1530'/>
+<rect x='1005' y='461' width='11' height='11' fill='#0b1530'/>
+<rect x='1027' y='461' width='11' height='11' fill='#0b1530'/>
+<rect x='1038' y='461' width='11' height='11' fill='#0b1530'/>
+<rect x='1071' y='461' width='11' height='11' fill='#0b1530'/>
+<rect x='1082' y='461' width='11' height='11' fill='#0b1530'/>
+<rect x='1104' y='461' width='11' height='11' fill='#0b1530'/>
+<rect x='972' y='472' width='11' height='11' fill='#0b1530'/>
+<rect x='983' y='472' width='11' height='11' fill='#0b1530'/>
+<rect x='994' y='472' width='11' height='11' fill='#0b1530'/>
+<rect x='1005' y='472' width='11' height='11' fill='#0b1530'/>
+<rect x='1038' y='472' width='11' height='11' fill='#0b1530'/>
+<rect x='1049' y='472' width='11' height='11' fill='#0b1530'/>
+<rect x='1060' y='472' width='11' height='11' fill='#0b1530'/>
+<rect x='1104' y='472' width='11' height='11' fill='#0b1530'/>
+<!-- Aperçu illustratif : maquette générique, pas une capture réelle -->
+</svg>

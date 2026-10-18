@@ -1,0 +1,94 @@
+<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 1280 800' width='1280' height='800' font-family='Segoe UI, Roboto, Helvetica, Arial, sans-serif'>
+<defs><linearGradient id='g' x1='0' y1='0' x2='1' y2='1'><stop offset='0' stop-color='#a78bfa'/><stop offset='1' stop-color='#6366f1'/></linearGradient></defs>
+<rect width='1280' height='800' fill='#eef2f8'/>
+<rect width='240' height='800' fill='#0b1530'/>
+<rect x='24' y='26' width='36' height='36' rx='10' fill='url(#g)'/>
+<text x='72' y='51' font-size='20' font-weight='700' fill='#fff'>TransBillet</text>
+<rect x='34' y='98' width='16' height='16' rx='4' fill='#475a85'/>
+<text x='62' y='111' font-size='15' fill='#a9b6d3'>Tableau de bord</text>
+<rect x='34' y='150' width='16' height='16' rx='4' fill='#475a85'/>
+<text x='62' y='163' font-size='15' fill='#a9b6d3'>Trajets</text>
+<rect x='34' y='202' width='16' height='16' rx='4' fill='#475a85'/>
+<text x='62' y='215' font-size='15' fill='#a9b6d3'>Départs</text>
+<rect x='14' y='242' width='212' height='40' rx='10' fill='#a78bfa' fill-opacity='.16'/>
+<rect x='14' y='242' width='4' height='40' rx='2' fill='#a78bfa'/>
+<rect x='34' y='254' width='16' height='16' rx='4' fill='#a78bfa'/>
+<text x='62' y='267' font-size='15' fill='#fff'>Réservations</text>
+<rect x='34' y='306' width='16' height='16' rx='4' fill='#475a85'/>
+<text x='62' y='319' font-size='15' fill='#a9b6d3'>Billets</text>
+<rect x='34' y='358' width='16' height='16' rx='4' fill='#475a85'/>
+<text x='62' y='371' font-size='15' fill='#a9b6d3'>Clients</text>
+<rect x='34' y='410' width='16' height='16' rx='4' fill='#475a85'/>
+<text x='62' y='423' font-size='15' fill='#a9b6d3'>Rapports</text>
+<rect x='240' width='1040' height='72' fill='#fff'/>
+<rect x='272' y='20' width='360' height='34' rx='17' fill='#eef2f8'/>
+<text x='296' y='42' font-size='14' fill='#8a97b3'>Rechercher…</text>
+<circle cx='1222' cy='36' r='18' fill='url(#g)'/>
+<rect x='1060' y='26' width='130' height='20' rx='6' fill='#e3e8f2'/>
+<text x='272' y='118' font-size='26' font-weight='700' fill='#0b1530'>Choix des sièges — Départ 08h00</text>
+<rect x='272' y='150' width='560' height='600' rx='16' fill='#fff'/>
+<rect x='452' y='174' width='200' height='560' rx='40' fill='#f5f7fb' stroke='#dbe2ee'/>
+<rect x='470' y='220' width='32' height='32' rx='8' fill='#fff' stroke='#c9d2e3'/>
+<rect x='512' y='220' width='32' height='32' rx='8' fill='#fff' stroke='#c9d2e3'/>
+<rect x='574' y='220' width='32' height='32' rx='8' fill='#0b1530' stroke='#c9d2e3'/>
+<rect x='616' y='220' width='32' height='32' rx='8' fill='#fff' stroke='#c9d2e3'/>
+<rect x='470' y='262' width='32' height='32' rx='8' fill='#fff' stroke='#c9d2e3'/>
+<rect x='512' y='262' width='32' height='32' rx='8' fill='#fff' stroke='#c9d2e3'/>
+<rect x='574' y='262' width='32' height='32' rx='8' fill='#fff' stroke='#c9d2e3'/>
+<rect x='616' y='262' width='32' height='32' rx='8' fill='#fff' stroke='#c9d2e3'/>
+<rect x='470' y='304' width='32' height='32' rx='8' fill='#fff' stroke='#c9d2e3'/>
+<rect x='512' y='304' width='32' height='32' rx='8' fill='#0b1530' stroke='#c9d2e3'/>
+<rect x='574' y='304' width='32' height='32' rx='8' fill='#fff' stroke='#c9d2e3'/>
+<rect x='616' y='304' width='32' height='32' rx='8' fill='#fff' stroke='#c9d2e3'/>
+<rect x='470' y='346' width='32' height='32' rx='8' fill='#0b1530' stroke='#c9d2e3'/>
+<rect x='512' y='346' width='32' height='32' rx='8' fill='#0b1530' stroke='#c9d2e3'/>
+<rect x='574' y='346' width='32' height='32' rx='8' fill='#fff' stroke='#c9d2e3'/>
+<rect x='616' y='346' width='32' height='32' rx='8' fill='#fff' stroke='#c9d2e3'/>
+<rect x='470' y='388' width='32' height='32' rx='8' fill='#fff' stroke='#c9d2e3'/>
+<rect x='512' y='388' width='32' height='32' rx='8' fill='#fff' stroke='#c9d2e3'/>
+<rect x='574' y='388' width='32' height='32' rx='8' fill='#0b1530' stroke='#c9d2e3'/>
+<rect x='616' y='388' width='32' height='32' rx='8' fill='#fff' stroke='#c9d2e3'/>
+<rect x='470' y='430' width='32' height='32' rx='8' fill='#fff' stroke='#c9d2e3'/>
+<rect x='512' y='430' width='32' height='32' rx='8' fill='#fff' stroke='#c9d2e3'/>
+<rect x='574' y='430' width='32' height='32' rx='8' fill='#fff' stroke='#c9d2e3'/>
+<rect x='616' y='430' width='32' height='32' rx='8' fill='#0b1530' stroke='#c9d2e3'/>
+<rect x='470' y='472' width='32' height='32' rx='8' fill='#0b1530' stroke='#c9d2e3'/>
+<rect x='512' y='472' width='32' height='32' rx='8' fill='#0b1530' stroke='#c9d2e3'/>
+<rect x='574' y='472' width='32' height='32' rx='8' fill='#0b1530' stroke='#c9d2e3'/>
+<rect x='616' y='472' width='32' height='32' rx='8' fill='#fff' stroke='#c9d2e3'/>
+<rect x='470' y='514' width='32' height='32' rx='8' fill='#0b1530' stroke='#c9d2e3'/>
+<rect x='512' y='514' width='32' height='32' rx='8' fill='#0b1530' stroke='#c9d2e3'/>
+<rect x='574' y='514' width='32' height='32' rx='8' fill='#fff' stroke='#c9d2e3'/>
+<rect x='616' y='514' width='32' height='32' rx='8' fill='#a78bfa' stroke='#c9d2e3'/>
+<rect x='470' y='556' width='32' height='32' rx='8' fill='#fff' stroke='#c9d2e3'/>
+<rect x='512' y='556' width='32' height='32' rx='8' fill='#0b1530' stroke='#c9d2e3'/>
+<rect x='574' y='556' width='32' height='32' rx='8' fill='#a78bfa' stroke='#c9d2e3'/>
+<rect x='616' y='556' width='32' height='32' rx='8' fill='#fff' stroke='#c9d2e3'/>
+<rect x='470' y='598' width='32' height='32' rx='8' fill='#0b1530' stroke='#c9d2e3'/>
+<rect x='512' y='598' width='32' height='32' rx='8' fill='#fff' stroke='#c9d2e3'/>
+<rect x='574' y='598' width='32' height='32' rx='8' fill='#fff' stroke='#c9d2e3'/>
+<rect x='616' y='598' width='32' height='32' rx='8' fill='#0b1530' stroke='#c9d2e3'/>
+<rect x='470' y='640' width='32' height='32' rx='8' fill='#fff' stroke='#c9d2e3'/>
+<rect x='512' y='640' width='32' height='32' rx='8' fill='#0b1530' stroke='#c9d2e3'/>
+<rect x='574' y='640' width='32' height='32' rx='8' fill='#fff' stroke='#c9d2e3'/>
+<rect x='616' y='640' width='32' height='32' rx='8' fill='#fff' stroke='#c9d2e3'/>
+<rect x='470' y='682' width='32' height='32' rx='8' fill='#fff' stroke='#c9d2e3'/>
+<rect x='512' y='682' width='32' height='32' rx='8' fill='#fff' stroke='#c9d2e3'/>
+<rect x='574' y='682' width='32' height='32' rx='8' fill='#fff' stroke='#c9d2e3'/>
+<rect x='616' y='682' width='32' height='32' rx='8' fill='#fff' stroke='#c9d2e3'/>
+<rect x='856' y='150' width='392' height='600' rx='16' fill='#0b1530'/>
+<text x='884' y='196' font-size='18' font-weight='600' fill='#fff'>Bukavu → Uvira</text>
+<text x='884' y='246' font-size='13' fill='#8a97b3'>Date du départ</text>
+<rect x='884' y='258' width='147' height='12' rx='6' fill='#33446b'/>
+<text x='884' y='312' font-size='13' fill='#8a97b3'>Heure</text>
+<rect x='884' y='324' width='245' height='12' rx='6' fill='#33446b'/>
+<text x='884' y='378' font-size='13' fill='#8a97b3'>Siège</text>
+<rect x='884' y='390' width='157' height='12' rx='6' fill='#33446b'/>
+<text x='884' y='444' font-size='13' fill='#8a97b3'>Passager</text>
+<rect x='884' y='456' width='255' height='12' rx='6' fill='#33446b'/>
+<text x='884' y='510' font-size='13' fill='#8a97b3'>Prix</text>
+<rect x='884' y='522' width='230' height='12' rx='6' fill='#33446b'/>
+<rect x='884' y='670' width='336' height='50' rx='12' fill='url(#g)'/>
+<text x='1052' y='701' font-size='16' font-weight='600' fill='#fff' text-anchor='middle'>Confirmer la réservation</text>
+<!-- Aperçu illustratif : maquette générique, pas une capture réelle -->
+</svg>
